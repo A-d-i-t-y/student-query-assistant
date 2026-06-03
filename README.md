@@ -124,5 +124,3 @@ bcrypt>=4.1.0
 ---
 
 
-# student-query-assistant
->>>>>>> 2670c01bac18c8f4049eaaaeb47a8821369849e4
