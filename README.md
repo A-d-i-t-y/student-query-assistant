@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 EduBot – AI-Powered Student Query Assistant
 
 A conversational AI assistant that helps students with **Programming**, **AI/ML**, **Career Guidance**, and **Interview Preparation** — powered by the Anthropic Claude API and built with Streamlit.
@@ -122,6 +123,6 @@ bcrypt>=4.1.0
 
 ---
 
-## 🙌 Acknowledgements
 
-Built with [Anthropic Claude](https://www.anthropic.com) and [Streamlit](https://streamlit.io).
+# student-query-assistant
+>>>>>>> 2670c01bac18c8f4049eaaaeb47a8821369849e4
